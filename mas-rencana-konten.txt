@@ -1,2 +1,4 @@
 RENCANA KONTEN MAS
 -video mengenai javasicript
+-ES6
+-Framework Javascript
